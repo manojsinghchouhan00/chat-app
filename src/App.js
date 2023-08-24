@@ -7,7 +7,6 @@ import ChatBox from "./Component/ChatBox";
 function App() {
   return (
     <div className="App">
-      
       <Navbar />
       <ChatBox/>
     </div>
