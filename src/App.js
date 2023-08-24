@@ -10,7 +10,7 @@ function App() {
       <Navbar />
       <ChatBox/>
     </div>
-  )
+  );
 }
 
 export default App;
